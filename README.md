@@ -12,9 +12,7 @@
   <a href="https://linkedin.com/in/vchandrashekhar96">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/VCShekhar96">
-    <img src="https://github.com/VCShekhar96](https://www.flaticon.com/free-icon/github_3291667)" alt="Github"/>
-  </a>
+  
 </p>
 
 ---

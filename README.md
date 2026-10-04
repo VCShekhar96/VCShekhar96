@@ -1,7 +1,7 @@
 <h1 align="center">V Chandrashekhar</h1>
 
 <p align="center">
-  <b>AI/ML Engineer · Software Engineer · IoT & Robotics</b><br/>
+  <b>AI/ML Engineer · Software Engineer </b><br/>
   B.Tech CSE 2026 · GATE 2026 Qualified · Hyderabad, India
 </p>
 

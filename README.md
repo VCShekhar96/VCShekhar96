@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/vchandrashekhar96">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=VCShekhar96&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://github.com/VCShekhar96" alt="Profile views"/>
 </p>
 
 ---
